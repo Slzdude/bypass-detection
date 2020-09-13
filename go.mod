@@ -1,4 +1,4 @@
-module bypass-detection
+module "github.com/Skactor/bypass-detection"
 
 go 1.15
 
